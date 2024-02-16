@@ -1,0 +1,58 @@
+body{
+background-color:pink; 
+ 
+        font-family: "Press Start 2P", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+    
+ 
+
+ }
+ #yesBtn {
+    background-color: aqua;
+    height: 4rem;
+    padding:5rem ;
+    border-radius: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Press Start 2P", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    cursor: alias;
+    font-size: large;
+
+    
+ }
+ #noBtn{
+    background-color: aqua;
+    height: 2rem;
+    margin-left: auto;
+        margin-right: auto;
+        font-family: "Press Start 2P", system-ui;
+        font-weight: 300;
+       
+        /* font-style: normal; */
+        border-radius: 0.5rem;
+        cursor:alias;
+        
+ }
+.valentine{
+    text-align: center;
+}
+/* style.css */
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+    border-radius: 4rem;
+    
+}
+#yesBtn:hover{
+    background-color: rgb(0, 255, 0);
+}
+#noBtn:hover{
+    background-color: red;
+}
+ 

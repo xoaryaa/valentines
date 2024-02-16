@@ -1,0 +1,41 @@
+body{
+    background-image: url('bg.png');
+        /* Specify the URL of your background image */
+        background-size: cover;
+        /* Cover the entire container */
+        background-position: center;
+        /* Center the background image */
+        height: 100vh;
+        /* Set the height of the container to 100% of the viewport height */
+        display: flex;
+        /* Use flexbox to center the content vertically */
+        justify-content: center;
+        /* Center the content horizontally */
+        align-items: center;
+}
+
+h1 {
+    
+    text-align: center;
+    /* Center-align the text */
+    font-size: 3rem;
+    font-family: "Press Start 2P", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        color:black;
+}
+.submitBtn{
+    background-color: rgb(255, 207, 255);
+        height: 4rem;
+        /* padding: 5rem; */
+        border-radius: 1.9rem;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: "Press Start 2P", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        cursor: alias;
+        font-size: large;
+
+}
