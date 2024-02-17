@@ -37,7 +37,7 @@ a cuter way to make plans and make ur bestie feel special
 ## 🔗links
 
 - [gitHub repo](https://github.com/xoaryaa/valentines)
-- [doc containing site imgs]([https://drive.google.com/drive/u/0/folders/18GDyVr_rgMHnz-6PHbo7ldhalTn6KKbX](https://docs.google.com/document/d/1DMXETU1UFKXdxdpeympwrk9rUyNT-j5Hvn1sxcKvhMc/edit?usp=sharing))
+- [doc containing site imgs](https://docs.google.com/document/d/1DMXETU1UFKXdxdpeympwrk9rUyNT-j5Hvn1sxcKvhMc/edit?usp=sharing)
 
 
 
