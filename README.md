@@ -88,17 +88,7 @@ git clone https://github.com/xoaryaa/valentines.git
 cd valentines
 ```
 
-3. Install dependencies
 
-```bash
-npm install
-```
-
-4. Start the server
-
-```bash
-npm start
-```
 
 
 
